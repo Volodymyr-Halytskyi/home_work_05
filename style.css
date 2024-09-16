@@ -46,3 +46,7 @@ span ~ p {
 section p {
     color: rgb(0, 128, 21);
 }
+
+.block {
+    background-color: black;
+}
