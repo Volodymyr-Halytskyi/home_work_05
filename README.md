@@ -17,7 +17,8 @@
 
 ### Заголовок 2 - червоного кольору
 
-абзац 5 - зеленого кольору 
+абзац 5 - зеленого кольору
+
 абзац 6 - зеленого кольору
 
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt nihil possimus autem officiis tempora ab corrupti odio non debitis provident, consequatur blanditiis veniam sit dignissimos laudantium dolor ipsam ad illo!
